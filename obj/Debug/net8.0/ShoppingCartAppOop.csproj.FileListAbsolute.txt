@@ -1,0 +1,14 @@
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\bin\Debug\net8.0\ShoppingCartAppOop.exe
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\bin\Debug\net8.0\ShoppingCartAppOop.deps.json
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\bin\Debug\net8.0\ShoppingCartAppOop.runtimeconfig.json
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\bin\Debug\net8.0\ShoppingCartAppOop.dll
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\bin\Debug\net8.0\ShoppingCartAppOop.pdb
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\obj\Debug\net8.0\ShoppingCartAppOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\obj\Debug\net8.0\ShoppingCartAppOop.AssemblyInfoInputs.cache
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\obj\Debug\net8.0\ShoppingCartAppOop.AssemblyInfo.cs
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\obj\Debug\net8.0\ShoppingCartAppOop.csproj.CoreCompileInputs.cache
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\obj\Debug\net8.0\ShoppingCartAppOop.dll
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\obj\Debug\net8.0\refint\ShoppingCartAppOop.dll
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\obj\Debug\net8.0\ShoppingCartAppOop.pdb
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\obj\Debug\net8.0\ShoppingCartAppOop.genruntimeconfig.cache
+C:\Users\Sujesh Lakhan\source\repos\ShoppingCartAppOop\obj\Debug\net8.0\ref\ShoppingCartAppOop.dll
